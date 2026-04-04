@@ -1,0 +1,1 @@
+Build a smart city assistant that can accept a shared user location, destination text or coordinates, then return traffic-aware and eco-aware route suggestions with clean Telegram bot UX and resilient backend error handling.
