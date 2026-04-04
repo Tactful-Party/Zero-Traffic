@@ -270,6 +270,3 @@ Try:
 - using one of the built-in place names,
 - checking your network connection for the Nominatim fallback.
 
-## License
-
-Add your preferred license here if this project is going to be distributed.
