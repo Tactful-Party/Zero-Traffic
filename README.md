@@ -27,8 +27,6 @@ Zero-Traffic/
 │   └── bot.py
 ├── frontend/
 │   └── index.html
-├── prompts/
-│   └── base44_prompt.txt
 ├── .env
 └── README.md
 ```
